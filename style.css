@@ -38,3 +38,8 @@ body {
     content: '$';
     color: #1cdf43;
 }
+
+a {
+    text-decoration: underline;
+    color: red;
+}
