@@ -299,7 +299,7 @@ th {
 
     .table td,
     .table th {
-        background-color: #fff !important
+        background-color: #f9f9f9 !important
     }
 
     .table-bordered td,
@@ -326,7 +326,7 @@ body {
     font-size: 11px;
     line-height: 1.78;
     color: #000;
-    background-color: #fff
+    background-color: #f9f9f9
 }
 
 button,
@@ -375,7 +375,7 @@ img {
 .img-thumbnail {
     padding: 4px;
     line-height: 1.78;
-    background-color: #fff;
+    background-color: #f9f9f9;
     border: 1px solid #ddd;
     border-radius: 0;
     -webkit-transition: all .2s ease-in-out;
@@ -1967,7 +1967,7 @@ th {
 }
 
 .table .table {
-    background-color: #fff
+    background-color: #f9f9f9
 }
 
 .table-condensed>tbody>tr>td,
@@ -2262,7 +2262,7 @@ output {
     width: 100%;
     height: 40px;
     padding: 8px 14px;
-    background-color: #fff;
+    background-color: #f9f9f9;
     background-image: none;
     border: 1px solid #000;
     border-radius: 0;
@@ -4532,7 +4532,7 @@ tbody.collapse.in {
 }
 
 .navbar-default {
-    background-color: #fff;
+    background-color: #f9f9f9;
     border-color: transparent
 }
 
@@ -5702,7 +5702,8 @@ body.minimal {
 .white-text-container p {
     text-shadow: 0 1px 3px #000;
     color: #fff;
-    font-weight: 200
+    font-weight: 700;
+    letter-spacing: 4px;
 }
 
 .white-text-container a {
@@ -6064,7 +6065,7 @@ textarea {
 .navbar-default .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle:hover {
-    background-color: #fff
+    background-color: #f9f9f9
 }
 
 @media (min-width:768px) {
@@ -6106,7 +6107,7 @@ textarea {
 .navbar-default .navbar-toggle,
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
-    background-color: #fff
+    background-color: #f9f9f9
 }
 
 @media (max-width:768px) {
@@ -6123,7 +6124,7 @@ textarea {
     }
 
     .navbar-default .navbar-collapse {
-        background-color: #fff
+        background-color: #f9f9f9
     }
 }
 
