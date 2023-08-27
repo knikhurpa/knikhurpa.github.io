@@ -237,11 +237,11 @@ th {
     }
 
     a[href]:after {
-        content: " ("attr(href) ")"
+        content: " (" attr(href) ")"
     }
 
     abbr[title]:after {
-        content: " ("attr(title) ")"
+        content: " (" attr(title) ")"
     }
 
     a[href^="#"]:after,
@@ -323,7 +323,7 @@ html {
 
 body {
     font-family: Roboto Mono, Helvetica, Arial, sans-serif;
-    font-size: 11px;
+    font-size: 14px;
     line-height: 1.78;
     color: #000;
     background-color: #f9f9f9
@@ -6129,7 +6129,7 @@ textarea {
 }
 
 .nav>li>a {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
     -webkit-transition: all .1s linear;
     -o-transition: all .1s linear;
